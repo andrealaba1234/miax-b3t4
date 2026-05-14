@@ -1,0 +1,2 @@
+experiment_name,input_window,output_window,conv_filters,n_conv_layers,kernel_size,dropout_rate,dense_units,learning_rate,epochs,batch_size,n_params,best_epoch,best_val_mae_real,final_val_mae_real,train_mae_real,val_mae_real,test_mae_real
+cnn_1layers_k2_do01,5,1,[16],1,2,0.1,10,0.0001,200,64,1175,46,0.01135046582426936,0.011371474454934177,0.011553580626083982,0.011350465824269358,0.012282827344382007
