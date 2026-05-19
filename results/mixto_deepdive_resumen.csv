@@ -1,0 +1,2 @@
+in_w,out_w,top_3_variantes,mae_test_ensemble,mae_test_top1
+90,90,"convLSTM_causal,biGRU_attention,profMIX",0.0012853631051257253,0.0012769632739946246
