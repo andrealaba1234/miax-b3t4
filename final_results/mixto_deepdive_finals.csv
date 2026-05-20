@@ -1,0 +1,6 @@
+variante,lr,batch_size,mae_val,mae_test,epochs_entrenadas,n_params,elapsed_sec,model_path
+convLSTM_causal,0.001,32,0.0002766117104329169,0.0014802002115175128,198,56023,1311.5,C:\Users\ALBER\Desktop\Instituto BME\Assigments BME\Modulo 3\ML final\models\mixto_dd_convLSTM_causal_in90_out90.keras
+biGRU_attention,0.001,32,0.0002947282628156245,0.0014202463207766414,139,109975,1557.8,C:\Users\ALBER\Desktop\Instituto BME\Assigments BME\Modulo 3\ML final\models\mixto_dd_biGRU_attention_in90_out90.keras
+profMIX,0.001,64,0.0003177835023961961,0.0012769632739946246,132,120983,1064.0,C:\Users\ALBER\Desktop\Instituto BME\Assigments BME\Modulo 3\ML final\models\mixto_dd_profMIX_in90_out90.keras
+adaptativo,0.001,32,0.00035287829814478755,0.0013440526090562344,186,79959,1059.5,C:\Users\ALBER\Desktop\Instituto BME\Assigments BME\Modulo 3\ML final\models\mixto_dd_adaptativo_in90_out90.keras
+multibranch,0.0005,32,0.0004068352864123881,0.0013986809644848108,131,54103,683.8,C:\Users\ALBER\Desktop\Instituto BME\Assigments BME\Modulo 3\ML final\models\mixto_dd_multibranch_in90_out90.keras
