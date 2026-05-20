@@ -1,0 +1,2 @@
+experiment_name,input_window,output_window,kernel_size,epochs,batch_size,n_params,best_epoch,best_val_mae_real,final_val_mae_real,train_mae_real,val_mae_real,test_mae_real
+cnn_iw_30_ow_30,30,30,3,389,64,9527,332,0.0014938393056297366,0.00149408466331886,0.0014529631966036182,0.0014938490476433144,0.0026333301478814043
