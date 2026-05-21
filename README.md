@@ -205,7 +205,7 @@ Posibles extensiones futuras:
 # 👥 Autores
 
 - Miriam Del Blanco
-- ALbert Martin
+- Albert Martin
 - Andrea Labá
 
 ---
