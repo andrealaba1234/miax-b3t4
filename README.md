@@ -118,11 +118,13 @@ Además, el proyecto incluye:
 
 # 🏆 Resultados de la Competición
 
-## 📊 Matriz de mejores resultados en test
+## 📊 Matriz de mejores resultados
 
+Mejores resultados Test
+![Mejores resultados](final_results/tabla_best_models_test.png)
 
-![Mejores resultados](final_results/tabla_best_models.png)
-
+Mejores resultados Validation
+![Mejores resultados](final_results/tabla_best_models_val.png)
 
 ---
 
