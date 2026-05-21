@@ -158,7 +158,8 @@ Utilizando el mejor modelo para horizontes largos (`OW=90`), se construyeron dos
 
 Ambas estrategias fueron evaluadas durante 2025.
 
-> TODO: Insertar resultados de backtesting.
+![Resultados](final_results/carteras_2025_head_to_head.png)
+![Resultados](final_results/carteras_2025_evolucion.png)
 
 ---
 
