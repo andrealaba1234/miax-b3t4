@@ -120,35 +120,32 @@ Además, el proyecto incluye:
 
 ## 📊 Matriz de mejores resultados en test
 
-```markdown
+
 ![Mejores resultados](final_results/tabla_best_models.png)
-```
+
 
 ---
 
 # 📈 Algunas curvas de Entrenamiento
 
 
-```markdown
+
 ![Resultados](final_results/mlp_curvas.png)
-```
-```markdown
+
 ![Resultados](final_results/rnn_curvas.png)
-```
-```markdown
+
 ![Resultados](final_results/cnn_curvas_entrenamiento_sinbaseline.png)
-```
-```markdown
+
 ![Resultados](final_results/mixto_curvas_convLSTM_causal.png)
-```
+
 
 ---
 
 # 🧪 CNN vs Diferenciación Fraccional
 
-```markdown
+
 ![Resultados](final_results/comparativa_cnn_df_logreturns.png)
-```
+
 
 ---
 
